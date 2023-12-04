@@ -40706,7 +40706,7 @@ aG(){this.aZ()},
 Q8(a){this.d.a6O(0).bB(new A.a8A(a),t.P).jY(new A.a8B())},
 M(a){var s=this,r=null,q=t.w,p=A.b8(a,r,q).w,o=$.aoZ(),n=$.ahj(),m=s.qO(a,"Nome do servidor:",n),l=$.aoW(),k=s.qO(a,"Cargo:",l),j=$.aoX(),i=s.qO(a,"E-mail:",j),h=$.aoY(),g=s.qO(a,"Telefone:",h),f=$.aoV(),e=t.E
 g=A.U4(A.b([B.Nj,m,k,i,g,s.qO(a,"Andar:",f),B.Nl],e),B.ch,B.EP,B.dr)
-return new A.wz(new A.t2(B.Nk,B.hm,!0,new A.O_(r,r,1/0,56),r),A.kh(r,A.afD(A.b([A.kh(r,new A.ut(g,B.jU,o),B.y,B.hm,r,p.a.b,r,B.kT,500),new A.wC(A.kh(r,A.afD(A.b([A.kh(r,r,B.y,r,B.xF,r,r,r,300),A.kh(r,A.U4(A.b([s.lD(a,n.a.a,!0,!0,A.b8(a,r,q).w.a.b*3.5/100),s.lD(a,l.a.a,!0,!1,A.b8(a,r,q).w.a.b*2/100),B.IO,s.lD(a,j.a.a+"@sme.prefeitura.sp.gov.br",!1,!1,A.b8(a,r,q).w.a.b*2/100),s.lD(a,"Tel.: 55 (11) 3397-"+h.a.a,!1,!1,A.b8(a,r,q).w.a.b*2/100),s.lD(a,"Rua Marina Ciufuli Zanfelice, 371 | "+f.a.a,!1,!1,A.b8(a,r,q).w.a.b*2/100),s.lD(a,"05040-000 | S\xe3o Paulo | SP",!1,!1,A.b8(a,r,q).w.a.b*2/100),s.lD(a,"https://educacao.sme.prefeitura.sp.gov.br",!1,!1,A.b8(a,r,q).w.a.b*2/100)],e),B.ho,B.EO,B.dr),B.y,r,r,r,B.Ar,r,r)],e),B.ch,B.dr),B.y,B.j,r,250,r,B.Af,r),s.d,r)],e),B.ch,B.dr),B.y,B.zf,r,r,r,r,r),A.aiR(B.l,B.B4,!1,new A.a8z(s)),r)},
+return new A.wz(new A.t2(B.Nk,B.hm,!0,new A.O_(r,r,1/0,56),r),A.kh(r,A.afD(A.b([A.kh(r,new A.ut(g,B.jU,o),B.y,B.hm,r,p.a.b,r,B.kT,500),new A.wC(A.kh(r,A.afD(A.b([A.kh(r,r,B.y,r,B.xF,r,r,r,300),A.kh(r,A.U4(A.b([s.lD(a,n.a.a,!0,!0,A.b8(a,r,q).w.a.b*3.5/100),s.lD(a,l.a.a,!0,!0,A.b8(a,r,q).w.a.b*2/100),B.IO,s.lD(a,j.a.a+"@sme.prefeitura.sp.gov.br",!1,!1,A.b8(a,r,q).w.a.b*2/100),s.lD(a,"Tel.: 55 (11) 3397-"+h.a.a,!1,!1,A.b8(a,r,q).w.a.b*2/100),s.lD(a,"Rua Marina Ciufuli Zanfelice, 371 | "+f.a.a,!1,!1,A.b8(a,r,q).w.a.b*2/100),s.lD(a,"05040-000 | S\xe3o Paulo | SP",!1,!1,A.b8(a,r,q).w.a.b*2/100),s.lD(a,"https://educacao.sme.prefeitura.sp.gov.br",!1,!1,A.b8(a,r,q).w.a.b*2/100)],e),B.ho,B.EO,B.dr),B.y,r,r,r,B.Ar,r,r)],e),B.ch,B.dr),B.y,B.j,r,220,r,B.Af,r),s.d,r)],e),B.ch,B.dr),B.y,B.zf,r,r,r,r,r),A.aiR(B.l,B.B4,!1,new A.a8z(s)),r)},
 qO(a,b,c){var s="GPT",r=null,q=t.w,p=A.d6(r,r,B.l,r,r,r,r,r,s,r,r,A.b8(a,r,q).w.a.b*2/100,r,r,B.v,r,r,!0,r,r,r,r,r,r,r,r),o=A.d6(r,r,B.l,r,r,r,r,r,s,r,r,A.b8(a,r,q).w.a.b*3/100,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),n=A.d6(r,r,B.l,r,r,r,r,r,s,r,r,A.b8(a,r,q).w.a.b*2/100,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),m=A.d6(r,r,B.l,r,r,r,r,r,s,r,r,A.b8(a,r,q).w.a.b*2/100,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),l=A.Cy(10),k=A.Cy(10)
 q=A.d6(r,r,B.kx,r,r,r,r,r,s,r,r,A.b8(a,r,q).w.a.b*1.5/100,r,r,B.v,r,r,!0,r,r,r,r,r,r,r,r)
 return A.aw1(!0,c,B.z8,A.ajh(r,B.Gk,r,r,r,r,r,r,!0,new A.ev(4,l,B.e5),r,new A.ev(4,A.Cy(50),B.xq),r,q,r,B.j,!0,r,r,o,r,new A.ev(4,k,B.e5),r,r,r,r,r,n,r,r,r,r,r,!1,!0,r,m,b,r,r,r,r,r,r,r,r,r,r,r,r,r),B.JS,1,1,new A.a8D(this),p,new A.a8E())},
@@ -77825,7 +77825,7 @@ B.Ni=new A.cW(B.M_,B.N1,B.MN,B.KF,B.MI,B.LU,B.N5,B.L5,B.LB,B.MD,B.Ky,B.MO,B.MG,B
 B.Nj=new A.lf("Dados do Servidor",null,null,null,null,null,null,null,null)
 B.Lo=new A.o(!0,B.l,null,"GPT",null,null,null,B.bT,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Nk=new A.lf("GERADOR DE ASSINATURA DE E-MAIL",null,B.Lo,null,null,null,null,null,null)
-B.Nl=new A.lf("Vers\xe3o 1.2",null,null,null,null,null,null,null,null)
+B.Nl=new A.lf("Vers\xe3o 1.3",null,null,null,null,null,null,null,null)
 B.Qt=new A.a5y(0,"system")
 B.G5=new A.i(0.056,0.024)
 B.FW=new A.i(0.108,0.3085)
